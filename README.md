@@ -6,7 +6,7 @@
 [東方管制塔 NX](https://github.com/armadillo-winX/ThLaunchSite)
 
 ## 言語
-C# .NET
+C# .NET<br>
 Visual Basic .NET
 
 ## その他
