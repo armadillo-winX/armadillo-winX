@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ## 珠音茉白/Mashiro Tamane
-東方系ツールをメインにつくっています
+東方管制塔をメインでつくっています。<br>
+[東方管制塔 Lite](https://github.com/armadillo-winX/ThGameMgr.Lite)<br>
+[東方管制塔 NX](https://github.com/armadillo-winX/ThLaunchSite)
 
 ## 言語
-C# + .NET
+C# .NET
+Visual Basic .NET
 
 ## その他
-当アカウントのアイコンの著作権は藤花陽菜(つくだに)([@tukudani_2005](https://x.com/tukudani_2005))氏に帰属するものである。
+当アカウントのアイコンはつくだに([@tukudani_2005](https://x.com/tukudani_2005))さんが製作したものである。
