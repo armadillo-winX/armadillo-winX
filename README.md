@@ -3,8 +3,7 @@
 ## 珠音茉白/Mashiro Tamane
 東方管制塔をメインでつくっています。<br>
 [東方管制塔 EX](https://github.com/armadillo-winX/ThGameMgr.Ex)<br>
-[東方管制塔 Lite](https://github.com/armadillo-winX/ThGameMgr.Lite)<br>
-[東方管制塔 NX](https://github.com/armadillo-winX/ThLaunchSite)
+[東方管制塔 Lite](https://github.com/armadillo-winX/ThGameMgr.Lite)
 
 ## 言語
 C# .NET<br>
