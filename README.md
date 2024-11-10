@@ -5,9 +5,6 @@
 [東方管制塔 EX](https://github.com/armadillo-winX/ThGameMgr.Ex)<br>
 [東方管制塔 Lite](https://github.com/armadillo-winX/ThGameMgr.Lite)
 
-## 言語
-C# .NET<br>
-Visual Basic .NET
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=armadillo-winX&show_icons=true&theme=chartreuse-dark"/>
 
-## その他
-当アカウントのアイコンはつくだに([@tukudani_2005](https://x.com/tukudani_2005))さんが製作したものである。
+※当アカウントのアイコンはつくだに([@tukudani_2005](https://x.com/tukudani_2005))さんが製作したものです。
