@@ -7,4 +7,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armadillo-winX&show_icons=true&theme=chartreuse-dark"/>
 
-※当アカウントのアイコンはつくだに([@tukudani_2005](https://x.com/tukudani_2005))さんが製作したものです。
